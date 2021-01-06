@@ -21,7 +21,7 @@ Landschaftsgestaltung:
 - Gras (insofern man es sieht)
 - verschiedenste Texturen (Gebirge, Schnee, ....)
 - Himmel (andere Skybox als Standardmäßig)
-- Hanger
+- Hangar
 - Helipad
 
 Heck- und Hauptroter drehen sich 
