@@ -8,6 +8,7 @@ W - Nach vorne bewegen
 A - Nach Links drehen
 S - Nach Hinten bewegen
 D - Nach Rechts drehen
+
 Space - Steigen
 E - Sinken 
 ```
