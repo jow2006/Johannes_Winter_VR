@@ -24,10 +24,10 @@ Landschaftsgestaltung:
 - Hangar
 - Helipad
 
-Heck- und Hauptroter drehen sich 
-Staubpartikel durch Rotoren
-Antriebspartikel
-Blinklichter auf Helipad 
+- Heck- und Hauptroter drehen sich 
+- Staubpartikel durch Rotoren
+- Antriebspartikel
+- Blinklichter auf Helipad 
 
 Eine weitere Bearbeitung wurde zunehmend schwerer, da es nur noch geruckelt hat.
 Ein Testen der Szene ``"Inspection"`` konnte leider nicht nochmal durchgeführt werden, da keine VR-Brille zur Verfügung steht. 
