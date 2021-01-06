@@ -1,0 +1,2 @@
+D:\01_Dokumente\03_Studium FFI\7. Semester\01_MMI_Praktikum\VirtuelleRealität\Aufgabe2\NEU\pmmi-2020\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\01_Dokumente\03_Studium FFI\7. Semester\01_MMI_Praktikum\VirtuelleRealität\Aufgabe2\NEU\pmmi-2020\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
